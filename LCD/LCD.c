@@ -15,7 +15,7 @@
 /******************************Pins Configurations*****************************/
 #define LCD_RS     (1 << 5) //Register select pin for the LCD    PIN 4    (LCD)
 #define LCD_RW     (1 << 6) //Read/Write pin fro the LCD         PIN 5    (LCD)
-#define LCD_ENABLE (1 << 7) //Enable pin 						 PIN 6    (LCD)
+#define LCD_ENABLE (1 << 7) //Enable pin 			 PIN 6    (LCD)
 #define LCD_DATA 0XFF       //Data pins                          PIN 7-14 (LCD)
 
 /*************************LCD Register Configurations**************************/
